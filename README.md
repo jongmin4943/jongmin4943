@@ -40,11 +40,5 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-</p>
-
 ### 🤝🏻 &nbsp;My Organization
 https://github.com/cobongBob
