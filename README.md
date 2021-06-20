@@ -20,12 +20,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ##### 🚀 Frameworks
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=falt&logo=jquery&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=falt&logo=jquery&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+
 
 ##### ⚡ Database
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white")&nbsp;
@@ -35,7 +36,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=falt&logo=node-dot-js&logoColor=white)&nbsp;
-![Express.ja](https://img.shields.io/badge/Express.js-000000?style=falt&logo=express&logoColor=white)&nbsp;
+![Express.ja](https://img.shields.io/badge/Express.js-13c81b?style=falt&logo=Express&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
