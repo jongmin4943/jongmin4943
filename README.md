@@ -35,7 +35,7 @@
 ##### Tried
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=falt&logo=node-dot-js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=falt&logo=Node.js&logoColor=white)&nbsp;
 ![Express.ja](https://img.shields.io/badge/Express.js-13c81b?style=falt&logo=Express&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
@@ -43,3 +43,4 @@
 
 ### 🤝🏻 &nbsp;My Organization
 https://github.com/cobongBob
+https://github.com/TheSix-MSA
