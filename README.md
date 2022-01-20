@@ -22,7 +22,7 @@
 ##### 🚀 Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=falt&logo=jquery&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
