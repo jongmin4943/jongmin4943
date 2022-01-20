@@ -22,13 +22,13 @@
 ##### 🚀 Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Vue](https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=falt&logo=jquery&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 
 ##### ⚡ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgre&logoColor=white")&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white")&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white")&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)&nbsp;
 
