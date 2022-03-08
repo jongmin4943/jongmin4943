@@ -5,7 +5,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software\
 🌱 &nbsp;I'm on track for learning more about Spring Cloud and Kubernetes\
-✉️ &nbsp;You can shoot me an email at jongmin4943@gmail.com . I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at jongmin4943@gmail.com . I'll try to respond as soon as I can\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -24,8 +24,6 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=falt&logo=jquery&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 
 ##### ⚡ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white")&nbsp;
@@ -39,7 +37,3 @@
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=falt&logo=Node.js&logoColor=white)&nbsp;
 ![Express.ja](https://img.shields.io/badge/Express.js-13c81b?style=falt&logo=Express&logoColor=white)&nbsp;
-
-### 🤝🏻 &nbsp;My Organization
-https://github.com/cobongBob <br/>
-https://github.com/TheSix-MSA
