@@ -7,6 +7,8 @@
 🌱 &nbsp;I'm on track for learning more about Spring Cloud and Kubernetes\
 ✉️ &nbsp;You can shoot me an email at jongmin4943@gmail.com . I'll try to respond as soon as I can.
 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://jongmin4943.tistory.com/)
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -23,6 +25,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white)&nbsp;
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)&nbsp;
 
 ##### ⚡ Database
@@ -36,4 +39,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=falt&logo=Node.js&logoColor=white)&nbsp;
-![Express.ja](https://img.shields.io/badge/Express.js-13c81b?style=falt&logo=Express&logoColor=white)&nbsp;
